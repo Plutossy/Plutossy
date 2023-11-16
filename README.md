@@ -1,15 +1,9 @@
 <!-- dynamic typing effect 动态打字效果 -->
 
 <div align="center">
-    <a href="https://blog.sunguoqi.com/">
+    <a href="https://blog.csdn.net/Pluto_ssy">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Welcome to my profile!&center=true&size=27" alt="Typing SVG" />
     </a>
-</div>
-
-
-<div align="center">
-<!-- knock code pictures 敲代码的图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -25,17 +19,17 @@
 <!-- ![](assets/Bottom_up.svg) -->
 
 <!--   Github活动统计图 -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=binwenwu&theme=react-dark)](https://github.com/binwenwu/binwenwu)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Plutossy&theme=react-dark)](https://github.com/Plutossy/Plutossy)
 
 <!--   状态栏 -->
 
 <p align="center">
-    <a href="https://github.com/binwenwu/binwenwu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/Plutossy/Plutossy"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/binwenwu/binwenwu/graphs/contributors"><img src="https://img.shields.io/github/contributors/binwenwu/binwenwu?color=blue"></a>
-    <a href="https://github.com/binwenwu/binwenwu/stargazers"><img src="https://img.shields.io/github/stars/binwenwu/binwenwu.svg?logo=github"></a>
-    <a href="https://github.com/binwenwu/binwenwu/network/members"><img src="https://img.shields.io/github/forks/binwenwu/binwenwu.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=binwenwu.binwenwu" alt="visitors"/>   
+    <a href="https://github.com/Plutossy/Plutossy/graphs/contributors"><img src="https://img.shields.io/github/contributors/Plutossy/Plutossy?color=blue"></a>
+    <a href="https://github.com/Plutossy/Plutossy/stargazers"><img src="https://img.shields.io/github/stars/Plutossy/Plutossy.svg?logo=github"></a>
+    <a href="https://github.com/Plutossy/Plutossy/network/members"><img src="https://img.shields.io/github/forks/Plutossy/Plutossy.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Plutossy.Plutossy" alt="visitors"/>   
 </p>
 
 
@@ -106,8 +100,8 @@
 | Property                         | Data                                                         |
 | -------------------------------- | ------------------------------------------------------------ |
 | **Language / IDE**               | ![Scala Badge](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=Scala&logoColor=white) ![IDEA Badge](https://img.shields.io/badge/-IDEA-000000?style=flat&logo=intellijidea&logoColor=white) ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![javascript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) |
-| **Domain Knownledge**            | [![Cloud native Badge](https://img.shields.io/badge/-Cloud%20native-01D277?style=flat&logoColor=white)](https://github.com/binwenwu/binwenwu) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/binwenwu?tab=repositories) [![Spatio temporal Big data Badge](https://img.shields.io/badge/-Spatio%20temporal%20Big%20data-4C8CBF?style=flat&logoColor=white)](https://github.com/binwenwu?tab=repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/binwenwu?tab=repositories) |
-| **CI / CD**                      | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/binwenwu/binwenwu) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/binwenwu/binwenwu) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/binwenwu/binwenwu) [![blogger Badge](https://img.shields.io/badge/-Blogger%20-2088FF?style=flat&logo=blogger&logoColor=white)](https://github.com/binwenwu/binwenwu) |
+| **Domain Knownledge**            | [![Cloud native Badge](https://img.shields.io/badge/-Cloud%20native-01D277?style=flat&logoColor=white)](https://github.com/Plutossy/Plutossy) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/Plutossy?tab=repositories) [![Spatio temporal Big data Badge](https://img.shields.io/badge/-Spatio%20temporal%20Big%20data-4C8CBF?style=flat&logoColor=white)](https://github.com/Plutossy?tab=repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/Plutossy?tab=repositories) |
+| **CI / CD**                      | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/Plutossy/Plutossy) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/Plutossy/Plutossy) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/Plutossy/Plutossy) [![blogger Badge](https://img.shields.io/badge/-Blogger%20-2088FF?style=flat&logo=blogger&logoColor=white)](https://github.com/Plutossy/Plutossy) |
 | **Databases**                    | <img alt="MySQL" src="https://camo.githubusercontent.com/e863bc79abf7a53150665ce9eb1a93f4fb6183af46bc3fb345ee5562736eb23c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d2532333030662e7376673f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&amp;logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&amp;logo=postgresql&amp;logoColor=blue" style="max-width: 100%;" alt="PostgreSQL" data-canonical-src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&amp;logo=postgresql&amp;logoColor=blue" style="max-width: 100%;"> ![redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) |
 | **OS**                           | <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565"><img src="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565" alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?style=flat-square&amp;logo=windows&amp;logoColor=blue" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475"><img src="https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475" alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&amp;logo=ubuntu" style="max-width: 100%;"></a> ![centos Badge](https://img.shields.io/badge/-Centos-262577?style=flat&logo=centos&logoColor=white) ![macos Badge](https://img.shields.io/badge/-MacOS-000000?style=flat&logo=macos&logoColor=white) |
 | **Tools & Platform**             | ![stackoverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&color=525252) ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![termius](https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white) |
@@ -117,13 +111,13 @@
 
 ### 📈 GitHub Activity Graph:
 
-[![Binwen Wu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=binwenwu&theme=github-compact)](https://github.com/binwenwu/github-readme-activity-graph)
+[![Binwen Wu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Plutossy&theme=github-compact)](https://github.com/Plutossy/github-readme-activity-graph)
 
 | .                                                            | .                                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![binwenwu's github stats](https://github-readme-stats.vercel.app/api?username=binwenwu&show_icons=true&theme=radical&include_all_commits=true) | ![binwenwu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=binwenwu&theme=radical&layout=compact) |
+| ![Plutossy's github stats](https://github-readme-stats.vercel.app/api?username=Plutossy&show_icons=true&theme=radical&include_all_commits=true) | ![Plutossy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Plutossy&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=binwenwu"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Plutossy"></img>
 
 
 **📫 How to Reach me:**
@@ -131,8 +125,8 @@
 <p align="left">
 <a href="https://twitter.com/wbnwn41710" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/%E6%96%8C%E6%96%87-%E5%90%B4-435a42285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:binwenwu598@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="mailto:2390726421@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/binwenwu/binwenwu/892c809a8186bbed1c37a9b335e4dd57c3189265/assets/icon/tencentqq-color.svg" alt="QQ" height="30" width="30" /></a>    
+<a href="mailto:Plutossy598@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="mailto:2390726421@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Plutossy/Plutossy/892c809a8186bbed1c37a9b335e4dd57c3189265/assets/icon/tencentqq-color.svg" alt="QQ" height="30" width="30" /></a>    
 </p>
 
 
@@ -143,7 +137,7 @@
 ### 🏆 Trophy: Github Profile Trophy
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binwenwu" alt="binwenwu" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Plutossy" alt="Plutossy" /></a>
 </p>
 
 
@@ -208,7 +202,7 @@ width="30%">
 ### :heart: Thanks for visiting :heart:
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/binwenwu/count.svg">  
+<img src="https://profile-counter.glitch.me/Plutossy/count.svg">  
 
 
 
@@ -217,7 +211,7 @@ width="30%">
 
 ### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=binwenwu/binwenwu&type=Date)](https://star-history.com/#binwenwu/binwenwu&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Plutossy/Plutossy&type=Date)](https://star-history.com/#Plutossy/Plutossy&Date)
 
 
 
@@ -226,7 +220,7 @@ width="30%">
 
 counting of visitors to this page in this section started from June 12, 2022
 
-![](https://count.getloli.com/get/@binwenwu.github.readme)
+![](https://count.getloli.com/get/@Plutossy.github.readme)
 </br>
 
 
