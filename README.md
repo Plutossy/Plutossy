@@ -25,7 +25,7 @@
 
 <p align="center">
     <a href="https://github.com/Plutossy/Plutossy"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/vuejs/cpython"><img src="https://img.shields.io/badge/Vue-3.00-FF1493.svg"></a>
     <a href="https://github.com/Plutossy/Plutossy/graphs/contributors"><img src="https://img.shields.io/github/contributors/Plutossy/Plutossy?color=blue"></a>
     <a href="https://github.com/Plutossy/Plutossy/stargazers"><img src="https://img.shields.io/github/stars/Plutossy/Plutossy.svg?logo=github"></a>
     <a href="https://github.com/Plutossy/Plutossy/network/members"><img src="https://img.shields.io/github/forks/Plutossy/Plutossy.svg?color=blue&logo=github"></a>
@@ -50,9 +50,14 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
-<p>&emsp;&emsp;大家好，我是小吴同学。</p>
-<p>&emsp;&emsp;热爱编程、游戏、篮球、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学与IT互联网事业，同时热衷于GIS领域的开发，励志成为一名优秀的独立开发者。</p>
+
+<p>&emsp;&emsp;“各位网友，你们好！”，我是Plutossy</p>
+<p>&emsp;&emsp;“00后”</p>
+<p>&emsp;&emsp;“爱编程、爱折腾”</p>
+<br>
+<p>&emsp;&emsp;九曲黄河天上流，迂回百代绕春秋。</p>
+<p>&emsp;&emsp;折腾本事家常饭，多少良心挂钓钩。</p>
+<br>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
@@ -83,17 +88,6 @@
 </table>
 
 
-<!--   my-kaggle     
-
-### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
-
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
--->
-
-
 <!--   技术栈 -->
 <!--   图标网址：https://simpleicons.org/ -->
 
@@ -106,145 +100,3 @@
 | **OS**                           | <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565"><img src="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565" alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?style=flat-square&amp;logo=windows&amp;logoColor=blue" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475"><img src="https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475" alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&amp;logo=ubuntu" style="max-width: 100%;"></a> ![centos Badge](https://img.shields.io/badge/-Centos-262577?style=flat&logo=centos&logoColor=white) ![macos Badge](https://img.shields.io/badge/-MacOS-000000?style=flat&logo=macos&logoColor=white) |
 | **Tools & Platform**             | ![stackoverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&color=525252) ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![termius](https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white) |
 | **Technology stack (framework)** | ![spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![nginx Badge](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![vuedotjs Badge](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![react Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![apachespark Badge](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) |
-
-<!--   GitHub stats graph -->
-
-### 📈 GitHub Activity Graph:
-
-[![Binwen Wu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Plutossy&theme=github-compact)](https://github.com/Plutossy/github-readme-activity-graph)
-
-| .                                                            | .                                                            |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Plutossy's github stats](https://github-readme-stats.vercel.app/api?username=Plutossy&show_icons=true&theme=radical&include_all_commits=true) | ![Plutossy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Plutossy&theme=radical&layout=compact) |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Plutossy"></img>
-
-
-**📫 How to Reach me:**
-
-<p align="left">
-<a href="https://twitter.com/wbnwn41710" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/%E6%96%8C%E6%96%87-%E5%90%B4-435a42285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:Plutossy598@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="mailto:2390726421@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Plutossy/Plutossy/892c809a8186bbed1c37a9b335e4dd57c3189265/assets/icon/tencentqq-color.svg" alt="QQ" height="30" width="30" /></a>    
-</p>
-
-
-
-
----
-
-### 🏆 Trophy: Github Profile Trophy
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Plutossy" alt="Plutossy" /></a>
-</p>
-
-
-
-
-### 🏆 Trophy: Hackerrank Profile Trophy
-
-<p align="center"> 
-
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
-</p>
-
-
-
----
-
-
-<!-- Belarus - My Home-->
-
- ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [114.2,30.5],
-             [113.45,23.02]
-         ]
-       ]
-     }
-   }
- ]
-}
-
- ```
-
-
-
-
----
-
-<p align="center"> 
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="./src/credly2.png" alt="ibm" width="100%">
-</p>
-
-
----
-
-### :heart: Thanks for visiting :heart:
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/Plutossy/count.svg">  
-
-
-
-
-
-
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Plutossy/Plutossy&type=Date)](https://star-history.com/#Plutossy/Plutossy&Date)
-
-
-
-
-### Profile Views
-
-counting of visitors to this page in this section started from June 12, 2022
-
-![](https://count.getloli.com/get/@Plutossy.github.readme)
-</br>
-
-
-
-</p>
-
----
-
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
----
-
----
-
-*Would you like to meet me?
-
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda*
----
-
----
-
-  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
----
-
-![](assets/Bottom_down.svg)
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
