@@ -79,9 +79,9 @@
 <tr><td>
 **📫 How to Reach me:**
 <p align="left">
-<a href="javascript:;">![](./svg/wechat.svg)zhlysun</a>
-<a href="javascript:;">![](./svg/tencentqq.svg)2728154199</a>
-<a href="mailto:pluto_ssy@outlook.com" target="blank">![](/svg/maildotcom.svg)</a>
+<a href="javascript:;">![zhlysun](./svg/wechat.svg)zhlysun</a>
+<a href="javascript:;">![2728154199](./svg/tencentqq.svg)2728154199</a>
+<a href="mailto:pluto_ssy@outlook.com" target="blank">![pluto_ssy@outlook.com](/svg/maildotcom.svg)</a>
 </p>
 </td></tr>
 
