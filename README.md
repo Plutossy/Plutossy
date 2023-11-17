@@ -25,7 +25,7 @@
     <a href="https://github.com/Plutossy/PsMusic/graphs/contributors"><img src="https://img.shields.io/github/contributors/Plutossy/PsMusic?color=blue"></a>
     <a href="https://github.com/Plutossy/PsMusic/stargazers"><img src="https://img.shields.io/github/stars/Plutossy/PsMusic.svg?logo=github"></a>
     <a href="https://github.com/Plutossy/PsMusic/network/members"><img src="https://img.shields.io/github/forks/Plutossy/PsMusic.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Plutossy.PsMusic" alt="visitors"/>   
+    <a href="javascript:;"><img src="https://visitor-badge.laobi.icu/badge?page_id=Plutossy.PsMusic" alt="visitors"/></a>
 </p>
 
 
