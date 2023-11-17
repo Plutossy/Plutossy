@@ -70,18 +70,14 @@
 
 ### 📃 Recent Blog
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" /> -->
 <!-- START_SECTION:blog -->
 
-* <a href='https://www.tankenqi.cn/posts/9d39de82' target='_blank'>K8S 集群环境搭建 (Containerd 作为容器)</a> - 2023-08-06
+* <a href='https://blog.csdn.net/Pluto_ssy/article/details/134417230' target='_blank'>web前端面试题（更新）</a> - 2023-11-15
 
-* <a href='https://www.tankenqi.cn/posts/9c5d9ac5' target='_blank'>Docker 修改容器映射主机端口</a> - 2023-05-12
+* <a href='https://blog.csdn.net/Pluto_ssy/article/details/134415317' target='_blank'>uniapp+vue3+sass实现Mini优购项目（黑马优购）</a> - 2023-11-15
 
-* <a href='https://www.tankenqi.cn/posts/b035bcd6' target='_blank'>Docker 安装配置</a> - 2023-05-11
-
-* <a href='https://www.tankenqi.cn/posts/d154fd87' target='_blank'>Linux 配置 NFS 共享存储服务器</a> - 2023-04-03
-
-* <a href='https://www.tankenqi.cn/posts/f5fad029' target='_blank'>VMware 虚拟机设置静态 IP</a> - 2023-03-14
+* <a href='https://blog.csdn.net/Pluto_ssy/article/details/134264532' target='_blank'>小程序-学习日志</a> - 2023-11-07
   <!-- END_SECTION:blog -->
   </td></tr>
 
