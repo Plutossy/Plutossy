@@ -110,7 +110,7 @@
 
 ### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=binwenwu/binwenwu&type=Date)](https://star-history.com/#binwenwu/binwenwu&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Plutossy/PsMusic&type=Date)](https://star-history.com/#Plutossy/PsMusic&Date)
 
 
 ![](./svg/Bottom_down.svg)
