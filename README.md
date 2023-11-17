@@ -81,17 +81,17 @@
 **📫 How to Reach me:**
 
 <p style="display:flex;justify-content:center;align-items:center;">
-<div>
+<div style="display:flex;">
 
 ![WeChat](https://img.shields.io/badge/-zhlysun-2088FF?style=flat&logo=wechat&logoColor=white)
 
 </div>
-<div>
+<div style="display:flex;">
 
 ![QQ](https://img.shields.io/badge/-2728154199-2088FF?style=flat&logo=Tencentqq&logoColor=white)
 
 </div>
-<div>
+<div style="display:flex;">
 
 <!-- <a href="mailto:pluto_ssy@outlook.com" target="blank"> -->
 
