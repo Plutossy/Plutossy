@@ -64,17 +64,6 @@
 </td></tr>
 
 <tr><td>
-**📫 How to Reach me:**
-<p align="left">
-<a href="https://twitter.com/wbnwn41710" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/%E6%96%8C%E6%96%87-%E5%90%B4-435a42285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:pluto_ssy@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="mailto:pluto_ssy@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Plutossy/Plutossy/892c809a8186bbed1c37a9b335e4dd57c3189265/assets/icon/tencentqq-color.svg" alt="QQ" height="30" width="30" /></a>    
-</p>
-</td></tr>
-
-
-<tr><td>
 
 <!-- 近期博客 -->
 
@@ -89,7 +78,17 @@
 
 * <a href='https://blog.csdn.net/Pluto_ssy/article/details/134264532' target='_blank'>小程序-学习日志</a> - 2023-11-07
   <!-- END_SECTION:blog -->
-  </td></tr>
+</td></tr>
+
+<tr><td>
+**📫 How to Reach me:**
+<p align="left">
+<a href="https://twitter.com/wbnwn41710" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/%E6%96%8C%E6%96%87-%E5%90%B4-435a42285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="mailto:pluto_ssy@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="mailto:2728154199@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Plutossy/Plutossy/892c809a8186bbed1c37a9b335e4dd57c3189265/assets/icon/tencentqq-color.svg" alt="QQ" height="30" width="30" /></a>    
+</p>
+</td></tr>
 
 </table>
 
