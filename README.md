@@ -80,7 +80,7 @@
 
 **📫 How to Reach me:**
 
-<p align="left">
+<p align="center">
 
 ![WeChat](https://img.shields.io/badge/-zhlysun-2088FF?style=flat&logo=wechat&logoColor=white)
 
