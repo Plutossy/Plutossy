@@ -77,12 +77,14 @@
 </td></tr>
 
 <tr><td>
+
 **📫 How to Reach me:**
+
 <p align="left">
 
-[![WeChat](https://img.shields.io/badge/-zhlysun-2088FF?style=flat&logo=wechat&logoColor=white)]
+![WeChat](https://img.shields.io/badge/-zhlysun-2088FF?style=flat&logo=wechat&logoColor=white)
 
-[![QQ](https://img.shields.io/badge/-2728154199-2088FF?style=flat&logo=Tencentqq&logoColor=white)]
+![QQ](https://img.shields.io/badge/-2728154199-2088FF?style=flat&logo=Tencentqq&logoColor=white)
 
 <!-- <a href="mailto:pluto_ssy@outlook.com" target="blank"> -->
 
