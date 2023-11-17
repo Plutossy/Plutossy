@@ -26,9 +26,9 @@
 <p align="center">
     <a href="https://github.com/Plutossy/Plutossy"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/vuejs/cpython"><img src="https://img.shields.io/badge/Vue-3.00-FF1493.svg"></a>
-    <a href="https://github.com/Plutossy/Plutossy/graphs/contributors"><img src="https://img.shields.io/github/contributors/Plutossy/Plutossy?color=blue"></a>
-    <a href="https://github.com/Plutossy/Plutossy/stargazers"><img src="https://img.shields.io/github/stars/Plutossy/Plutossy.svg?logo=github"></a>
-    <a href="https://github.com/Plutossy/Plutossy/network/members"><img src="https://img.shields.io/github/forks/Plutossy/Plutossy.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/Plutossy/PsMusic/graphs/contributors"><img src="https://img.shields.io/github/contributors/Plutossy/Plutossy?color=blue"></a>
+    <a href="https://github.com/Plutossy/PsMusic/stargazers"><img src="https://img.shields.io/github/stars/Plutossy/Plutossy.svg?logo=github"></a>
+    <a href="https://github.com/Plutossy/PsMusic/network/members"><img src="https://img.shields.io/github/forks/Plutossy/PsMusic.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Plutossy.Plutossy" alt="visitors"/>   
 </p>
 
