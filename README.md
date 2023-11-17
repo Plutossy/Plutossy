@@ -80,26 +80,9 @@
 
 **📫 How to Reach me:**
 
-<p style="display:flex;justify-content:center;align-items:center;">
-<div style="display:flex;">
+<p align="left">
 
-![WeChat](https://img.shields.io/badge/-zhlysun-2088FF?style=flat&logo=wechat&logoColor=white)
-
-</div>
-<div style="display:flex;">
-
-![QQ](https://img.shields.io/badge/-2728154199-2088FF?style=flat&logo=Tencentqq&logoColor=white)
-
-</div>
-<div style="display:flex;">
-
-<!-- <a href="mailto:pluto_ssy@outlook.com" target="blank"> -->
-
-[![pluto_ssy@outlook.com](https://img.shields.io/badge/-Email-2088FF?style=flat&logo=Gmail&logoColor=white)](mailto:pluto_ssy@outlook.com)
-
-<!-- </a> -->
-</div>
-
+![WeChat](https://img.shields.io/badge/-zhlysun-2088FF?style=flat&logo=wechat&logoColor=white) ![QQ](https://img.shields.io/badge/-2728154199-2088FF?style=flat&logo=Tencentqq&logoColor=white) [![pluto_ssy@outlook.com](https://img.shields.io/badge/-Email-2088FF?style=flat&logo=Gmail&logoColor=white)](mailto:pluto_ssy@outlook.com)
 </p>
 </td></tr>
 
